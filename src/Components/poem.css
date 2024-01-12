@@ -1,0 +1,42 @@
+
+/* poem.css */
+
+.poem-container {
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .filtered-container{
+    width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top:40px;
+  }
+  
+  .poem-title {
+    color: #333;
+  }
+  .poem-heading{
+    text-align:center;
+  }
+  
+  .poem-content {
+    margin: 10px 0;
+  }
+  
+  .poem-author {
+    font-weight: bold;
+  }
+  
+  .poem-line-count {
+    margin-top: 5px;
+    color: #777;
+  }
+  
