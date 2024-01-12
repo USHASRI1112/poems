@@ -10,7 +10,7 @@ this will be the Provider and all the consumers who are attached to it will get 
 it is the react package which has all the routing components Router Switch Route BrowserRouter UseHistory 
 this will help us implement routes.Our job is to use them 
 CAUTION:react got updated, most of us are not working and removed in newest version vite APP*/
-
+import React from 'react'
 // Import necessary components from react-router-dom
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 /* The Router component is a fundamental part of react-router-dom. 
